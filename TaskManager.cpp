@@ -12,3 +12,7 @@ void AddTask()
 {
     cout << "Task added successfully." << endl;
 }
+
+void FuckTask() {
+    cout << "Task fucked successfully" << endl;
+}

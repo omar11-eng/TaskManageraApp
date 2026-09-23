@@ -9,6 +9,7 @@ int main()
 
     ShowTasks();
     AddTask();
+    FuckTask();
 
     return 0;
 }
